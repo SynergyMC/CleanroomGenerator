@@ -1,4 +1,4 @@
-##Warning: You will need to update your custom generator settings to use 1.13's new block IDs before starting your server or else new chunks will be generated incorrectly
+## Warning: You will need to update your custom generator settings to use 1.13's new block IDs before starting your server or else new chunks will be generated incorrectly
 
 See http://dev.bukkit.org/server-mods/cleanroomgenerator/ for more
 information and jar downloads.
